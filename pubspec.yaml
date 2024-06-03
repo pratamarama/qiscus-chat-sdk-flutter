@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
   sealed_unions: ^3.0.2+2
   async: ^2.8.2
-  mqtt_client: ^9.4.2
+  mqtt_client: ^10.2.1
   dio: ^5.2.1+1
   equatable: ^2.0.3
   pretty_dio_logger: ^1.1.1
